@@ -1,6 +1,6 @@
 # LL Scan - Ferramenta de Port Scan personalizada
 ## Olá Lucas Luiz aqui! Deixa eu aprensentar o LL port scan.
-Desenvolvi em liguagem pythom um programa para realizar port scanner (scanner de porta),
+Desenvolvi em linguagem pythom um programa para realizar port scanner (scanner de porta),
 Objetivo do LL Scan é  mapear as portas TCP e UDP, e retornar quais destas portas se encontram aberta.
 A ferramenta pode procurar servidores vulneráveis, serviços em um hostname e IP. Para que possa ser usado em Pentest, para análise 
 de vunerabilidade. Com objetivo de auxiliar a criar relatórios para melhoria de defesa cibernética.
