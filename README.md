@@ -2,7 +2,7 @@
 ## Olá Lucas Luiz aqui! Deixa eu aprensentar o LL port scan.
 Desenvolvi em linguagem pythom um programa para realizar port scanner (scanner de porta),
 Objetivo do LL Scan é  mapear as portas TCP e UDP, e retornar quais destas portas se encontram aberta.
-A ferramenta pode procurar servidores vulneráveis, serviços em um hostname e IP. Para que possa ser usado em Pentest, para análise 
+A ferramenta pode procurar servidores vulneráveis, serviços em um hostname e IP. Para ser usado em Pentest, para análise 
 de vunerabilidade. Com objetivo de auxiliar a criar relatórios para melhoria de defesa cibernética.
 O site usado para sugestão é o [www.bancocn.com](http://www.bancocn.com/), este site mantido pela [Solyd Offensive Security](https://solyd.com.br/)
 para que estudantes de Cyber Security, possam atacar, explorar vunerabilidades, etc... Neste site idicado esta autorizado pela Solyd, e ele se reconstrói a cada 15
