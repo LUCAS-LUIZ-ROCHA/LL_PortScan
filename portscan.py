@@ -2,7 +2,7 @@ import socket
 import os
 import sys
 
-#Bem vindo
+
 print("Olá, seja bem vindo ao LL Scan 1.0!")
 
 # Capturando e validando o endereço do alvo a ser analisado
